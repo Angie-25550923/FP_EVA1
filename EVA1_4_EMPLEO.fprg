@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_4_EMPLEO"/>
+        <attribute name="authors" value="Angie"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-09-03 09:01:33 a. m."/>
+        <attribute name="created" value="QW5naWU7REVTS1RPUC04VEZEUUpSOzIwMjUtMDktMDM7MDg6NDg6MDUgYS4gbS47MzA0NQ=="/>
+        <attribute name="edited" value="QW5naWU7REVTS1RPUC04VEZEUUpSOzIwMjUtMDktMDM7MDk6MDE6MzMgYS4gbS47MTszMTQ0"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;EMPLEO&quot;" newline="True"/>
+            <output expression="&quot;Asistente de sistemas&quot;" newline="True"/>
+            <output expression="&quot;Salario&quot;" newline="True"/>
+            <output expression="10000" newline="True"/>
+            <output expression="&quot;HORAS A LA SEMANA&quot;" newline="True"/>
+            <output expression="40" newline="True"/>
+            <output expression="&quot;Requiere INGL&#201;S&quot;" newline="True"/>
+            <output expression="TRUE" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
